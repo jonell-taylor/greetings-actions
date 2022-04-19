@@ -1,4 +1,5 @@
-# greetings-actions
+# greetings-actions Workshop 
 Simple hello world type of program for use with learning GitHub Actions
 
-testing
+Setting up basic actions that are triggered off a commit to main
+actions require a .github/workflows directory 
