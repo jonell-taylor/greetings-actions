@@ -1,4 +1,4 @@
-# greetings-actions Workshop 
+# Git Hub Actions Workshop 
 Simple hello world type of program for use with learning GitHub Actions
 
 Setting up basic actions that are triggered off a commit to main
