@@ -49,7 +49,7 @@ count-args:
     runs-on: ubuntu-latest
     steps:
 - id: report-count
-  uses: jonell-taylor/arg-count-action@main
+  uses: jonell-taylor/greetings-actions/arg-count-action@main
   with:
     arguments-to-count: ${{ github.event.inputs.myValues }}
 - run: echo
